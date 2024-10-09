@@ -1,0 +1,28 @@
+﻿Natural Language dan Machine Language adalah dua jenis bahasa yang sangat berbeda dalam penggunaannya dan fungsinya.
+
+1. Natural Language (Bahasa Alami):
+
+Definisi: Bahasa yang digunakan oleh manusia untuk berkomunikasi sehari-hari, seperti bahasa Indonesia, Inggris, atau Mandarin.
+
+Karakteristik: Kompleks, ambigu, dan sering kali dipengaruhi oleh konteks budaya, sosial, dan emosional. Makna kata dan kalimat bisa berbeda tergantung konteksnya.
+
+Contoh: "Hari ini cuacanya cerah."
+
+Fungsi: Digunakan untuk komunikasi antara manusia, baik dalam bentuk lisan maupun tulisan.
+
+
+
+2. Machine Language (Bahasa Mesin):
+
+Definisi: Bahasa yang digunakan oleh komputer untuk memahami dan menjalankan instruksi. Ini adalah bahasa yang paling dasar yang langsung dieksekusi oleh prosesor.
+
+Karakteristik: Bahasa ini terdiri dari kode biner (0 dan 1), sangat spesifik, tidak ambigu, dan sulit dipahami oleh manusia. Setiap instruksi dalam bahasa mesin diterjemahkan menjadi operasi dasar yang dilakukan oleh perangkat keras komputer.
+
+Contoh: Kode biner seperti 1100101 yang mewakili instruksi spesifik untuk prosesor.
+
+Fungsi: Digunakan untuk komunikasi antara perangkat keras dan perangkat lunak, di mana perangkat keras menjalankan instruksi yang diberikan oleh perangkat lunak dalam bentuk kode biner.
+
+
+
+
+Kesimpulan: Natural language digunakan oleh manusia untuk berkomunikasi dengan sesama manusia, sementara machine language digunakan oleh komputer untuk beroperasi dan menjalankan instruksi secara langsung pada level perangkat keras.
